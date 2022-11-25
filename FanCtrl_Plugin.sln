@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanCtrl_Plugin", "FanCtrl_Plugin.csproj", "{72038B28-3422-4111-8A85-98EB4E5ED16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72038B28-3422-4111-8A85-98EB4E5ED16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72038B28-3422-4111-8A85-98EB4E5ED16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72038B28-3422-4111-8A85-98EB4E5ED16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72038B28-3422-4111-8A85-98EB4E5ED16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A646B8F3-44B3-44FD-B09A-DC04113B83AE}
+	EndGlobalSection
+EndGlobal
